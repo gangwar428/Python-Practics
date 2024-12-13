@@ -1,6 +1,6 @@
 Python Basics
-Author: [Ritesh Gangwar / gangwar428]
-Date: [12/12/2024]
+Author: Ritesh Gangwar / gangwar428
+Date: 13/12/2024
 Description: A simple introduction to Python syntax, variables, and basic concepts.
 
 What is Python?
