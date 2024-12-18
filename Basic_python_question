@@ -1,0 +1,242 @@
+50 basic things in python 
+
+1. Print a message
+print("Hello, India!")
+
+2. Declare a string variable
+name = "Priya"
+print(name)
+
+3. Declare an integer variable
+age = 25
+print(age)
+
+4. Declare a float variable
+price = 99.99
+print(price)
+
+5. Concatenate strings
+first_name = "Raj"
+last_name = "Kumar"
+full_name = first_name + " " + last_name
+print(full_name)
+
+6. Concatenating strings and integers (with conversion)
+name = "Anil"
+age = 30
+print(name + " is " + str(age) + " years old.")
+
+7. Using formatted strings
+name = "Sita"
+age = 22
+print(f"My name is {name} and I am {age} years old.")
+
+8. Simple addition of integers
+a = 5
+b = 10
+print(a + b)
+
+9. Simple subtraction of integers
+a = 20
+b = 8
+print(a - b)
+
+10. Multiplying integers
+a = 4
+b = 7
+print(a * b)
+
+11. Dividing integers (float result)
+a = 10
+b = 3
+print(a / b)
+
+12. Dividing integers (integer result using //)
+a = 10
+b = 3
+print(a // b)
+
+13. Modulus (remainder)
+a = 10
+b = 3
+print(a % b)
+
+14. Exponentiation (power of integers)
+a = 2
+b = 3
+print(a ** b)
+
+15. Simple addition of floats
+x = 5.5
+y = 3.2
+print(x + y)
+
+16. Subtracting floats
+x = 10.5
+y = 2.25
+print(x - y)
+
+17. Multiplying floats
+x = 4.1
+y = 2.3
+print(x * y)
+
+18. Dividing floats
+x = 9.0
+y = 3.0
+print(x / y)
+
+19. Using float in formatted strings
+price = 49.99
+print(f"The price of the item is Rs.{price}")
+
+20. Combining string and float in print statement
+item = "Shirt"
+price = 450.75
+print("The price of the " + item + " is " + str(price))
+
+21. Concatenating multiple strings
+greeting = "Good" + " " + "Morning"
+print(greeting)
+
+22. Converting float to integer
+x = 45.8
+print(int(x))
+
+23. Converting integer to float
+age = 21
+print(float(age))
+
+24. Storing the result of an addition
+a = 15
+b = 30
+result = a + b
+print(result)
+
+25. Storing the result of subtraction
+a = 40
+b = 12
+result = a - b
+print(result)
+
+26. Storing the result of multiplication
+a = 6
+b = 9
+result = a * b
+print(result)
+
+27. Storing the result of division
+a = 20
+b = 4
+result = a / b
+print(result)
+
+28. Storing the result of integer division
+a = 22
+b = 5
+result = a // b
+print(result)
+29. Converting string to integer
+number_str = "100"
+print(int(number_str))
+
+30. Converting string to float
+number_str = "99.99"
+print(float(number_str))
+
+31. Printing multiple variables in one statement
+name = "Rohan"
+age = 19
+print("Name:", name, "Age:", age)
+
+32. Print formatted string with multiple variables
+name = "Amit"
+salary = 50000.50
+print(f"{name}'s salary is Rs.{salary}")
+
+33. Multiplying string with integer (repeating string)
+name = "Amit"
+print(name * 3)
+
+34. Using a string with a float result
+total_cost = 150.50
+print("The total cost is: Rs." + str(total_cost))
+
+35. Store a float result in a variable
+x = 10.5
+y = 4.2
+result = x + y
+print(result)
+
+36. Print a string and integer together using commas
+age = 30
+print("I am", age, "years old.")
+
+37. Convert float to string
+num = 45.78
+print(str(num))
+
+38. Convert integer to string
+num = 45
+print(str(num))
+
+39. Float arithmetic result stored as float
+a = 1.5
+b = 2.0
+result = a * b
+print(result)
+
+40. String with special characters
+text = "Hello, \"India\"!"
+print(text)
+
+41. Escape character for a newline in string
+text = "Hello\nIndia"
+print(text)
+
+42. Escape character for a tab in string
+text = "Hello\tIndia"
+print(text)
+
+43. Storing integer arithmetic result in variable
+a = 8
+b = 3
+result = a // b
+print(result)
+
+44. Printing without newline (using end)
+print("Hello", end=" ")
+print("India")
+
+45. Using a float and integer in a calculation
+price = 100.50
+quantity = 3
+total = price * quantity
+print(total)
+
+46. Concatenating string with arithmetic result
+x = 10
+y = 5
+print("The result is: " + str(x + y))
+
+47. Print integer and float together using commas
+x = 45
+y = 9.5
+print("x:", x, "y:", y)
+
+48. Add integer and float
+x = 10
+y = 5.5
+print(x + y)
+
+49. Combining arithmetic and formatted strings
+x = 10
+y = 5
+result = x + y
+print(f"The sum of {x} and {y} is {result}")
+
+50. String slicing (printing part of string)
+text = "Namaste India"
+print(text[0:7]) # Prints 'Namaste
+
+
